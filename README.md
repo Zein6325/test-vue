@@ -1,5 +1,8 @@
 # todoapp
 
+### Live demo
+See [demo](https://zein6325.github.io/).
+
 ## Project setup
 ```
 npm install
